@@ -1,18 +1,10 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
-
-<<<<<<< HEAD
-url: http://seanponeil.github.com
+url: http://SeanPONeil.github.com
 title: Sean O'Neil
 subtitle: 
 author: Sean O'Neil
-=======
-url: http://seanponeil.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
->>>>>>> master
 simple_search: http://google.com/search
 description:
 
