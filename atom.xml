@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Sean O'Neil]]></title>
+  <link href="http://SeanPONeil.github.com/atom.xml" rel="self"/>
+  <link href="http://SeanPONeil.github.com/"/>
+  <updated>2012-08-26T11:36:48-04:00</updated>
+  <id>http://SeanPONeil.github.com/</id>
+  <author>
+    <name><![CDATA[Sean O'Neil]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Hello Brave New World]]></title>
+    <link href="http://SeanPONeil.github.com/blog/2012/08/22/hello-brave-new-world/"/>
+    <updated>2012-08-22T15:53:00-04:00</updated>
+    <id>http://SeanPONeil.github.com/blog/2012/08/22/hello-brave-new-world</id>
+    <content type="html"><![CDATA[<p>Here goes nothing. I&#8217;ve wanted to mess around with <a href="http://jekyllrb.com/" title="Jekyll">Jekyll</a> and <a href="http://octopress.org/" title="Octopress">Octopress</a> for a while, but every time I tried them out I would run into some bizarre Ruby environment issue, or Ruby would magically disappear from my path, or some other Act of God would intervene. Nevertheless, Octopress turned out to be dead simple to deploy to Github Pages once Ruby was functional.</p>
+
+<p>I&#8217;m going to try to use this blog as a brain dump of sorts, so expect a lot of programming tidbits that won&#8217;t fit in a gist.</p>
+]]></content>
+  </entry>
+  
+</feed>
