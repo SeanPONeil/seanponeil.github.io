@@ -57,18 +57,18 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/twitter.ht
 # ----------------------- #
 
 # Github repositories
-github_user: SeanPONeil
-github_repo_count: 5
-github_show_profile_link: true
-github_skip_forks: true
+github_user:
+github_repo_count:
+github_show_profile_link:
+github_skip_forks:
 
 # Twitter
-twitter_user: SeanPONeil
-twitter_tweet_count: 5
-twitter_show_replies: false
-twitter_follow_button: true
-twitter_show_follower_count: false
-twitter_tweet_button: true
+twitter_user:
+twitter_tweet_count:
+twitter_show_replies:
+twitter_follow_button:
+twitter_show_follower_count:
+twitter_tweet_button:
 
 # Google +1
 google_plus_one: false
@@ -88,7 +88,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: seanponeil
 disqus_show_comment_count: false
 
 # Google Analytics
