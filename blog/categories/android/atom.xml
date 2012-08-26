@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Android | Sean O'Neil]]></title>
+  <link href="http://SeanPONeil.github.com/blog/categories/android/atom.xml" rel="self"/>
+  <link href="http://SeanPONeil.github.com/"/>
+  <updated>2012-08-26T14:26:28-04:00</updated>
+  <id>http://SeanPONeil.github.com/</id>
+  <author>
+    <name><![CDATA[Sean O'Neil]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Holo Design]]></title>
+    <link href="http://SeanPONeil.github.com/blog/2012/08/26/holo-design/"/>
+    <updated>2012-08-26T13:46:00-04:00</updated>
+    <id>http://SeanPONeil.github.com/blog/2012/08/26/holo-design</id>
+    <content type="html"><![CDATA[<p>Ever since Google published their official <a href="http://developer.android.com/design/index.html">Design</a> documentation, it has been fun to see developers tweak the different Holo themes to fit their app's look and feel. One of my favorites is Mobiata's <a href="https://play.google.com/store/apps/details?id=com.mobiata.flighttrack.free&amp;hl=en">FlightTrack Free</a>:</p>
+
+<p><img src="http://24.media.tumblr.com/tumblr_m8oliwGDGO1r2wjwko1_1280.png" width="298" height="470">
+<img src="http://24.media.tumblr.com/tumblr_m8oliwGDGO1r2wjwko2_1280.png" width="298" height="470"></p>
+
+<p>They followed the guidelines fairly strictly, staying away from any custom or iOS-like navigation elements. They strayed from the guidelines, however, when it came to theming. Their take on the Holo theme doesn't look out of place on Android, but still stands out from the other strictly Holo apps out there and manages to capture the FlightTrack brand perfectly. Major props to everyone at Mobiata.</p>
+]]></content>
+  </entry>
+  
+</feed>
